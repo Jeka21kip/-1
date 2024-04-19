@@ -21,4 +21,4 @@
 |----|:----:|----:|
 | Текст 1 | Текст 2 | Текст 3 |
 
-![Alt-текст]([https://avatars1.githubusercontent.com/u/5384215?v=3&s=460](https://w7.pngwing.com/pngs/24/746/png-transparent-game-controllers-video-game-computer-icons-gamepad-miscellaneous-game-electronics.png) "Джостик")
+![Alt-текст](https://github.com/Jeka21kip/-4-/assets/124623121/2efe4ec1-f0a4-4f2c-ab36-4a06de0737aa "Джостик")
