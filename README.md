@@ -21,4 +21,4 @@
 |----|:----:|----:|
 | Текст 1 | Текст 2 | Текст 3 |
 
-![Alt-текст](https://github.com/Jeka21kip/-4-/assets/124623121/2efe4ec1-f0a4-4f2c-ab36-4a06de0737aa "Джостик")
+![Джостик](https://github.com/Jeka21kip/-4-/assets/124623121/2efe4ec1-f0a4-4f2c-ab36-4a06de0737aa "Джостик")
