@@ -9,8 +9,7 @@
    3. Dark sols
 - Любимые фильмы
    - Гари поттер
-   - <img src="https://github.com/Jeka21kip/-4-/assets/124623121/fd79598b-1aea-46d0-806c-07c7f088da37" width=400px height=400px>
-   - ![Гари потер и философский камень](https://github.com/Jeka21kip/-4-/assets/124623121/fd79598b-1aea-46d0-806c-07c7f088da37  "Гари потер и философский камень" {width=40px height=400px})
+   - <img src="https://github.com/Jeka21kip/-4-/assets/124623121/fd79598b-1aea-46d0-806c-07c7f088da37" width=400px height=400px alt="Гари потер и филосовский камень">
    - [Первому игроку приготовитьтся](https://www.youtube.com/watch?v=iVw9Hsnqpg8)
 + Любимая музыка
    + AsperX - Каждый справляется сам
