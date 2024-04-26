@@ -1,4 +1,4 @@
-# Колледж
+# Мои записи
 :white_check_mark: сделано    
 :negative_squared_cross_mark: не буду делать    
 :black_square_button: думаю делать ли?
